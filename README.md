@@ -1,4 +1,5 @@
 [![Open In Kaggle](https://img.shields.io/badge/-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/colewelkins/ves3-0?scriptVersionId=128594480)
+[![Visit Scroll Prize](https://img.shields.io/badge/Visit-Scroll%20Prize-green)](https://scrollprize.org/)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![Framework](https://img.shields.io/badge/Framework-TensorFlow-orange.svg)](https://www.tensorflow.org/)
 [![Framework](https://img.shields.io/badge/Framework-Keras-orange.svg)](https://keras.io/)
