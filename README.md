@@ -1,3 +1,11 @@
+[![Open In Kaggle](https://img.shields.io/badge/-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/colewelkins/ves3-0?scriptVersionId=128594480)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
+[![Framework](https://img.shields.io/badge/Framework-TensorFlow-orange.svg)](https://www.tensorflow.org/)
+[![Framework](https://img.shields.io/badge/Framework-Keras-orange.svg)](https://keras.io/)
+[![Framework](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
+[![Dataset](https://img.shields.io/badge/Dataset-Vesuvius_Challenge-green.svg)](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection/)
+[![Paper](https://img.shields.io/badge/Paper-Read-blue.svg)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215775)
+
 ## Overview
 
 The goal of this project is to develop a deep learning solution for the detection of ink in 3D x-ray scans. The presence of ink in these scans is of particular interest in various applications, such as the analysis of historical manuscripts, artwork, and archaeological artifacts. Accurate ink detection can provide valuable insights into the composition and preservation of these objects.
