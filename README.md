@@ -15,9 +15,11 @@ To achieve this goal, a Convolutional Neural Network (CNN) model is employed, wh
 
 In this project, the CNN model is specifically designed to process 3D x-ray scans. The input to the model is a subvolume extracted from the 3D x-ray scan, where each subvolume represents a small region of the scan. The model processes the subvolume and outputs a binary prediction indicating whether ink is present in the subvolume.
 
-## Model Architecture
+## Model Architecture and Data Augmentation
 
 The architecture of the CNN model is designed to handle 3D image data. The model consists of several convolutional layers, each followed by batch normalization and a ReLU activation function. Max pooling is applied after certain convolutional layers to reduce spatial dimensions. The output of the convolutional layers is then flattened and passed through fully connected layers with dropout regularization. The final layer uses a sigmoid activation function to produce the binary prediction.
+
+Data augmentation techniques, including random horizontal and vertical flips, are introduced to the training pipeline to improve the model's robustness and generalization capabilities.
 
 The architecture of the model can be mathematically represented as follows:
 
@@ -56,9 +58,7 @@ The training process for ink detection involves several key steps, as illustrate
 
 - (a) Starting with a fragment of the papyrus.
 - (b) Obtaining a 3D volume from the fragment using X-ray imaging techniques.
-- (c) Segmenting a mesh from the 3D volume
-
-. This mesh represents the surface of the papyrus fragment.
+- (c) Segmenting a mesh from the 3D volume. This mesh represents the surface of the papyrus fragment.
 - (d) Sampling a surface volume around the mesh. This surface volume contains the intensity values around the papyrus surface and serves as the input data for the model.
 - (e) Taking an infrared photo of the fragment. The infrared photo allows for the visualization of the ink on the papyrus surface.
 - (f) Aligning the infrared photo with the surface volume. This alignment ensures that the ink regions in the photo correspond to the appropriate regions in the surface volume.
@@ -74,7 +74,6 @@ Once the surface volume and binary label image are prepared, the training of the
 
 Through this iterative training process, the model learns to recognize patterns associated with the presence of ink in the 3D surface volumes. The trained model can then be used to detect ink in new, unseen data.
 
-_The animation above demonstrates the training process. The model learns to detect ink by processing subvolumes from the 3D x-ray scan and updating its weights based on the ground truth labels._
 
 ## Evaluation
 
@@ -99,9 +98,7 @@ The RLE-encoded binary mask is saved to a CSV file, which can be submitted for e
 
 This project demonstrates the application of deep learning techniques for the detection of ink in 3D x-ray scans. The trained CNN model is capable of accurately identifying ink regions in the scans, providing valuable information for the analysis and preservation of historical and archaeological objects.
 
-The model can be further improved by experimenting with different architectures, hyperparameters, and data augmentation techniques. Additionally, the model can be extended to handle multi-class segmentation tasks, where different types of ink or materials need to be
-
-identified.
+The model can be further improved by experimenting with different architectures, hyperparameters, and data augmentation techniques. Additionally, the model can be extended to handle multi-class segmentation tasks, where different types of ink or materials need to be identified.
 
 Overall, this project showcases the potential of deep learning in the field of image analysis and its ability to provide meaningful insights from complex data.
 
