@@ -32,14 +32,14 @@ Y &= \text{Softmax}(\text{FC}(X_3, W_3))
 $$
 
 Where:
-- \( \text{Conv1D} \): 1D Convolution operation
-- \( \text{BN} \): Batch Normalization
-- \( \text{ReLU} \): Rectified Linear Unit activation function
-- \( \text{LSTM} \): Long Short-Term Memory layer
-- \( \text{FC} \): Fully Connected layer
-- \( \text{Dropout} \): Dropout regularization
-- \( \text{Softmax} \): Softmax activation function
-- \( W_i \): Learnable weights for each layer
+- Conv1D: 1D Convolution operation
+- BN: Batch Normalization
+- ReLU: Rectified Linear Unit activation function
+- LSTM: Long Short-Term Memory layer
+- FC: Fully Connected layer
+- Dropout: Dropout regularization
+- Softmax: Softmax activation function
+- W_i: Learnable weights for each layer
 
 ![Model Architecture](LINK_TO_YOUR_MODEL_ARCHITECTURE_IMAGE)  
 [_source_](LINK_TO_IMAGE_SOURCE)
