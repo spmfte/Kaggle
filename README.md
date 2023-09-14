@@ -25,8 +25,8 @@ Welcome to my Kaggle repository, where I showcase my deep dives into various dat
 
 ## Key Achievements
 
-- Achieved top 5% in the Vesuvius Challenge using a custom 3D convolutional neural network.
-- Successfully predicted RNA behavior with an accuracy of XX% in the RNA Kaggle Challenge.
+- Succesfully read scrolls in the Vesuvius Challenge using a custom 3D convolutional neural network.
+- Successfully predicted RNA behavior with an accuracy of TBD% in the RNA Kaggle Challenge.
 
 ## Tools and Technologies
 
