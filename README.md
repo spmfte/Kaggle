@@ -1,4 +1,4 @@
-# Cole Welkins' Kaggle Projects
+# Aidan Littman's Kaggle Projects
 
 [![Open In Kaggle](https://img.shields.io/badge/-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/colewelkins)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
