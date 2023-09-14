@@ -7,6 +7,8 @@
 [![Dataset](https://img.shields.io/badge/Dataset-Vesuvius_Challenge-green.svg)](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection/)
 [![Paper](https://img.shields.io/badge/Paper-Read-blue.svg)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215775)
 
+Ink Detection in 3D X-Ray Scans: Deep learning model using a CNN architecture to detect ink presence in 3D x-ray scans. Processes subvolumes, outputs binary predictions, and evaluates performance on historical manuscripts and artifacts.
+
 ## Overview
 
 The goal of this project is to develop a deep learning solution for the detection of ink in 3D x-ray scans. The presence of ink in these scans is of particular interest in various applications, such as the analysis of historical manuscripts, artwork, and archaeological artifacts. Accurate ink detection can provide valuable insights into the composition and preservation of these objects.
