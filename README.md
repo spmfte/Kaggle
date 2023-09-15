@@ -11,19 +11,19 @@ Welcome to my Kaggle repository, where I showcase my deep dives into various dat
 ## Projects
 
 ### 1. Vesuvius Challenge
-- **Description**: An in-depth approach to detecting ink in ancient manuscripts using convolutional neural networks.
+**Description**: An in-depth approach to detecting ink in ancient manuscripts using convolutional neural networks.
 - [Project Notebook](https://www.kaggle.com/code/colewelkins/give-me-words)
 - [Competition Overview](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection)
 - [Dataset](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection/)
 
 ### 2. RNA Kaggle Challenge
-- **Description**: Predicting RNA sequence behavior using advanced neural network architectures to unravel the mysteries surrounding RNA's behavior and stability.
+ **Description**: Predicting RNA sequence behavior using advanced neural network architectures to unravel the mysteries surrounding RNA's behavior and stability.
 - [Project Notebook](https://www.kaggle.com/code/colewelkins/mlrna)
 - [Competition Overview](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding/overview)
 - [Dataset](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding/data)
 
 ### 3. Single-Cell Gene Expression Prediction Challenge
-- **Description**: Predicting how small molecules change gene expression in different cell types, with potential applications in drug discovery and basic biology.
+ **Description**: Predicting how small molecules change gene expression in different cell types, with potential applications in drug discovery and basic biology.
 - [Project Notebook](https://www.kaggle.com/code/colewelkins/pert30)
 - [Competition Overview](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview)
 - [Dataset](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/data)
