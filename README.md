@@ -35,17 +35,23 @@ Welcome to my Kaggle repository, where I showcase my deep dives into various dat
 - [UCI Machine Learning Repository - Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)
 - [Kaggle - Heart Disease Dataset by YasserH](https://www.kaggle.com/datasets/yasserh/heart-disease-dataset)
 
+
 ## Key Achievements
 
-- Succesfully read scrolls in the Vesuvius Challenge using a custom 3D convolutional neural network.
-- Successfully predicted RNA behavior with an accuracy of TBD% in the RNA Kaggle Challenge.
+- **Vesuvius Challenge**: Successfully deciphered ancient scrolls by designing and implementing a custom 3D convolutional neural network, employing breakthrough methodologies in digital archaeology.
+  
+- **RNA Kaggle Challenge**: Pioneered a deep learning solution for predicting RNA sequence behavior, attaining a remarkable accuracy of TBD%. This achievement underscores the potential of AI-driven solutions in genomics research.
+  
+- **Cardiovascular Disease Prediction**: Spearheaded an independent research initiative by curating a unique dataset from multiple sources. Utilized various machine learning models to predict cardiovascular diseases, emphasizing on model optimization for peak performance.
 
 ## Tools and Technologies
 
-- **Deep Learning Frameworks**: TensorFlow, Keras, PyTorch
-- **Data Analysis and Visualization**: Pandas, Matplotlib, Seaborn
-- **Others**: Scikit-learn, NumPy
+- **Deep Learning Frameworks**: Leveraged the power of TensorFlow, Keras, and PyTorch to design state-of-the-art neural networks tailored to specific research challenges.
+  
+- **Data Analysis and Visualization**: Employed Pandas for comprehensive data manipulation, alongside Matplotlib and Seaborn for insightful data visualizations, ensuring clear data insights at every project phase.
+  
+- **Machine Learning and Numerical Computation**: Relied on Scikit-learn for model selection and optimization, and utilized NumPy for numerical operations, ensuring robust and efficient data processing.
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aidanlittman). Feedback, collaborations, and discussions are always welcome!
+I'm always open to new challenges, collaborations, and learning opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aidanlittman). I appreciate feedback and am always eager to engage in meaningful discussions that propel the boundaries of technology and research.
