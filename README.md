@@ -29,6 +29,12 @@ Welcome to my Kaggle repository, where I showcase my deep dives into various dat
 - [Dataset](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/data)
 
 
+### 4. Cardiovascular Disease Prediction Through Advanced Machine Learning
+**Description**: A self-driven research initiative focusing on predicting cardiovascular diseases using diverse machine learning models. The project stands out for its independent creation and preprocessing of a dataset, derived from combining two primary sources, and its emphasis on model optimization for the highest predictive accuracy.
+- [Project Notebook](https://www.kaggle.com/code/colewelkins/cardiovascular-example)
+- [UCI Machine Learning Repository - Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)
+- [Kaggle - Heart Disease Dataset by YasserH](https://www.kaggle.com/datasets/yasserh/heart-disease-dataset)
+
 ## Key Achievements
 
 - Succesfully read scrolls in the Vesuvius Challenge using a custom 3D convolutional neural network.
