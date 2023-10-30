@@ -40,7 +40,7 @@ Welcome to my Kaggle repository, where I showcase my deep dives into various dat
 
 - **Vesuvius Challenge**: Successfully deciphered ancient scrolls by designing and implementing a custom 3D convolutional neural network, employing breakthrough methodologies in digital archaeology.
   
-- **RNA Kaggle Challenge**: Pioneered a deep learning solution for predicting RNA sequence behavior, attaining a remarkable accuracy of TBD%. This achievement underscores the potential of AI-driven solutions in genomics research.
+- **RNA Kaggle Challenge**: Pioneered a deep learning solution for predicting RNA sequence behavior, attaining a remarkable accuracy of ≈70%. This achievement underscores the potential of AI-driven solutions in genomics research.
   
 - **Cardiovascular Disease Prediction**: Spearheaded an independent research initiative by curating a unique dataset from multiple sources. Utilized various machine learning models to predict cardiovascular diseases, emphasizing on model optimization for peak performance.
 
