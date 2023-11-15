@@ -24,7 +24,7 @@ Welcome to my Kaggle repository, where I showcase my deep dives into various dat
 
 ### 3. Single-Cell Gene Expression Prediction Challenge
  **Description**: Predicting how small molecules change gene expression in different cell types, with potential applications in drug discovery and basic biology.
-- [Project Notebook](https://www.kaggle.com/code/colewelkins/pert30)
+- [Project Notebook](https://www.kaggle.com/code/colewelkins/fortnite-battlepass)
 - [Competition Overview](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview)
 - [Dataset](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/data)
 
