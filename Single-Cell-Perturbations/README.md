@@ -62,7 +62,6 @@ We train a LightGBM regression model to predict chemical perturbations' impact o
 ## Evaluation
 
 The model's performance is evaluated using root mean squared error (RMSE) on a test dataset.
-
 ## Acknowledgments
 
 - [Open Problems in Single-Cell Analysis](https://www.openproblems.com/cellarity-competition)
