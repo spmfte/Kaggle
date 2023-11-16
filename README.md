@@ -62,7 +62,6 @@ Welcome to my Kaggle repository, where I showcase my deep dives into various dat
 - **Data Analysis and Visualization**: Employed Pandas for comprehensive data manipulation, alongside Matplotlib and Seaborn for insightful data visualizations, ensuring clear data insights at every project phase.
   
 - **Machine Learning and Numerical Computation**: Relied on Scikit-learn for model selection and optimization, and utilized NumPy for numerical operations, ensuring robust and efficient data processing.
-
 ## Connect with Me
 
 I'm always open to new challenges, collaborations, and learning opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aidanlittman). I appreciate feedback and am always eager to engage in meaningful discussions that propel the boundaries of technology and research.
