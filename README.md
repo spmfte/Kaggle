@@ -10,37 +10,37 @@ Welcome to my Kaggle repository, where I showcase my deep dives into various dat
 
 ## Projects
 
-### 1. Vesuvius Challenge
+### 1. [Vesuvius Challenge](https://github.com/spmfte/Kaggle/tree/a138eec511ffea2cec112486d2412a227a6ea676/Vesuvius)
 **Description**: An in-depth approach to detecting ink in ancient manuscripts using convolutional neural networks.
 - [Project Notebook](https://www.kaggle.com/code/colewelkins/give-me-words)
 - [Competition Overview](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection)
 - [Dataset](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection/)
 
-### 2. RNA Kaggle Challenge
+### 2. [RNA Kaggle Challenge](https://github.com/spmfte/Kaggle/tree/a138eec511ffea2cec112486d2412a227a6ea676/Stanford%20RNA)
  **Description**: Predicting RNA sequence behavior using advanced neural network architectures to unravel the mysteries surrounding RNA's behavior and stability.
 - [Project Notebook](https://www.kaggle.com/code/colewelkins/mlrna)
 - [Competition Overview](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding/overview)
 - [Dataset](https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding/data)
 
-### 3. Single-Cell Gene Expression Prediction 
+### 3. [Single-Cell Gene Expression Prediction](https://github.com/spmfte/Kaggle/tree/a138eec511ffea2cec112486d2412a227a6ea676/Single-Cell-Perturbations)
  **Description**: Predicting how small molecules change gene expression in different cell types, with potential applications in drug discovery and basic biology.
 - [Project Notebook](https://www.kaggle.com/code/colewelkins/fortnite-battlepass)
 - [Competition Overview](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview)
 - [Dataset](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/data)
 
-### 4. Cardiovascular Disease Prediction Through Advanced Machine Learning
+### 4. [Cardiovascular Disease Predictive Modeling](https://github.com/spmfte/Kaggle/tree/a138eec511ffea2cec112486d2412a227a6ea676/Heart%20Disease%20Predictive%20Modeling)
 **Description**: A self-driven research initiative focusing on predicting cardiovascular diseases using diverse machine learning models. The project stands out for its independent creation and preprocessing of a dataset, derived from combining two primary sources, and its emphasis on model optimization for the highest predictive accuracy.
 - [Project Notebook](https://www.kaggle.com/code/colewelkins/cardiovascular-example)
 - [UCI Machine Learning Repository - Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)
 - [Kaggle - Heart Disease Dataset by YasserH](https://www.kaggle.com/datasets/yasserh/heart-disease-dataset)
 
-### 5. Detecting AI Generated Writing
-**Description**: Detecting the presence of LLM generated content in essays written by middle and highschool students. 
+### 5. [Detecting AI Generated Writing](https://github.com/spmfte/Kaggle/tree/a138eec511ffea2cec112486d2412a227a6ea676/LLM%20Detection)
+**Description**: Detecting the presence of LLM generated content in essay's written by middle and highschool students. 
 - [Project Notebook](https://www.kaggle.com/code/colewelkins/ai-generated-text-mod-weight-add-more-data-0-9)
 - [Competition Overview](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview)
 - [Dateset](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)
 
-### 6. Ovarian Cancer Subtype Classification and Detection
+### 6. [Ovarian Cancer Subtype Classification and Detection](https://github.com/spmfte/Kaggle/tree/a138eec511ffea2cec112486d2412a227a6ea676/UBC-OCEAN)
 **Description**: Developed a model trained on the world's most extensive ovarian cancer dataset of histopathology images obtained from more than 20 medical centers to classify ovarian cancer subtypes.
 - Project Notebook *TBD*
 - [Competition Overview](https://www.kaggle.com/competitions/UBC-OCEAN/overview)
