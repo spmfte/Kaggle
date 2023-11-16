@@ -45,7 +45,6 @@ The model's performance is evaluated using the mean absolute error (MAE) on the 
 ## Visualizing Loss <a name="visualizing-loss"></a>
 
 The training and validation loss curves are visualized over epochs.
-
 ## Acknowledgments
 
 - [Keras](https://keras.io/)
