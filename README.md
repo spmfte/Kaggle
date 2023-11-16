@@ -40,6 +40,12 @@ Welcome to my Kaggle repository, where I showcase my deep dives into various dat
 - [Competition Overview](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview)
 - [Dateset](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)
 
+### 6. Ovarian Cancer Subtype Classification and Detection
+**Description**: Developed a model trained on the world's most extensive ovarian cancer dataset of histopathology images obtained from more than 20 medical centers to classify ovarian cancer subtypes.
+- Project Notebook *TBD*
+- [Competition Overview](https://www.kaggle.com/competitions/UBC-OCEAN/overview)
+- [Dataset](https://www.kaggle.com/competitions/UBC-OCEAN/data)
+  
 ## Key Achievements
 
 - **Vesuvius Challenge**: Successfully deciphered ancient scrolls by designing and implementing a custom 3D convolutional neural network.
