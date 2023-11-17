@@ -50,11 +50,12 @@ Welcome to my Kaggle repository, where I showcase my deep dives into various dat
 
 - **Vesuvius Challenge**: Successfully deciphered ancient scrolls by designing and implementing a custom 3D convolutional neural network.
   
-- **RNA Kaggle Challenge**: Pioneered a deep learning solution for predicting RNA sequence behavior, attaining a remarkable accuracy of ≈70%. 
+- **RNA Kaggle Challenge**: Pioneered a deep learning solution for predicting RNA sequence behavior, attaining an accuracy of ≈70%. 
   
 - **Cardiovascular Disease Prediction**: Spearheaded an independent research initiative by curating a unique dataset from multiple sources.
 
-- **Detecting AI Generated Writing**: TBD, currently ranked `180/1147`
+- **Detecting AI Generated Writing**: tbd
+
 ## Tools and Technologies
 
 - **Deep Learning Frameworks**: Leveraged the power of TensorFlow, Keras, and PyTorch to design state-of-the-art neural networks tailored to specific research challenges.
