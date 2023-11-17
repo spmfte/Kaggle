@@ -1,12 +1,8 @@
-# Aidan Littman's Kaggle Projects
-
 [![Open In Kaggle](https://img.shields.io/badge/-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/colewelkins)
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange.svg)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Framework-Keras-orange.svg)](https://keras.io/)
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
-
-Welcome to my Kaggle repository, where I showcase my deep dives into various datasets and challenges. Here, you'll find a blend of cutting-edge machine learning models, data analysis, and creative solutions.
 
 ## Projects
 
