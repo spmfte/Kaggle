@@ -41,6 +41,12 @@
 - Project Notebook *TBD*
 - [Competition Overview](https://www.kaggle.com/competitions/UBC-OCEAN/overview)
 - [Dataset](https://www.kaggle.com/competitions/UBC-OCEAN/data)
+
+### 7. [Harvard Medical - Electroencephalography Classification](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)
+**Description**: Detect and classify seizures and other types of harmful brain activity by developing a model trained on electroencephalography (EEG) signals recorded from critically ill hospital patients.
+-  Project Notebook *TBD*
+-  [Competition Overview](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/overview)
+-  [Dataset](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data)
   
 ## Key Achievements
 
